@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+}
+
+.main {
+
+
+}
+
+div {
+
+	display: block;
+}
+
+#left-column {
+
+	width: 25%;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#right-column {
+
+	width: 75%;
+	float: left;
+}
+
+
+.names {
+
+
+}
+
+.repos {
+	position: relative;
+}
+
